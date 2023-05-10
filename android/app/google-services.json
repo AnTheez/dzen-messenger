@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65075155169",
+    "project_id": "dzen-backend-454a9",
+    "storage_bucket": "dzen-backend-454a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65075155169:android:644a2fd1a1ab1a121be7a0",
+        "android_client_info": {
+          "package_name": "com.example.dzen_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65075155169-mh89a4re4ug9m1bth0ks4240jk40ih7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdaYITcgs4_frP9hGoIkpHYB2SPPz8DUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65075155169-mh89a4re4ug9m1bth0ks4240jk40ih7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
